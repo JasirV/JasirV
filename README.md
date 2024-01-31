@@ -1,5 +1,11 @@
 <h1 align='center'>👋 Hi, I’m JasirV </h1>
 <h1 align='center'>A Passionate fullstack developer</h1>
+<a href="https://www.instagram.com/mohd__jasir_?igsh=MTExYnB3eGxweHlhNw%3D%3D&utm_source=qr">
+    <img src="https://cdn4.iconfinder.com/data/icons/picons-social/57/38-instagram-2-512.png" 
+         alt="Instagram Logo" 
+         width="65" 
+         height="65">
+</a>
 <img src='https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif'/>
 
 - 👀 I’m interested in  playing games and web development. That's a great combination of interests!
