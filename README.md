@@ -4,7 +4,6 @@
 
 
 
-<img src='https://camo.githubusercontent.com/e23b3ec7f3f67295811cca44ca01a8a58fdba04b85dc9aad0490ebbd67a2f18d/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f62653833323932323339313439312e353863323535353866306665372e676966' alt="GIF" style="display: block; margin: 20px auto;"/>
 
 <p align="center">
   👀 I’m interested in playing games and web development. That's a great combination of interests!<br>
